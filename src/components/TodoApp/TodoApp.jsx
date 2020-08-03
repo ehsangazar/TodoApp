@@ -4,6 +4,7 @@ import {
     TaskList,
     FilterFooter
 } from '../'
+import "./TodoApp.css";
 
 const TodoApp = () => (
     <div className="TodoApp">
